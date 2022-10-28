@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="logo_reactProject.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.71446409"
+     inkscape:cx="218.34547"
+     inkscape:cy="601.14988"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient5791">
+      <stop
+         style="stop-color:#dee3db;stop-opacity:1;"
+         offset="0"
+         id="stop5787" />
+      <stop
+         style="stop-color:#dee3db;stop-opacity:0;"
+         offset="1"
+         id="stop5789" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3555"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#3bffd7;stop-opacity:1;"
+         offset="0"
+         id="stop3553" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient5791"
+       id="linearGradient5793"
+       x1="69.991272"
+       y1="173.86722"
+       x2="333.66211"
+       y2="0.1851766"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(1.3648294,0,0,1.2459349,-34.819223,-27.478505)" />
+  </defs>
+  <g
+     inkscape:label="Camada 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#12110e;fill-opacity:1;stroke:none;stroke-width:0.345024"
+       id="rect846"
+       width="109.67816"
+       height="161.95132"
+       x="96.592415"
+       y="34.810471" />
+    <rect
+       style="fill:url(#linearGradient5793);fill-opacity:1;stroke:none;stroke-width:0.345567;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect848"
+       width="108.66731"
+       height="155.49176"
+       x="13.701997"
+       y="106.32745" />
+    <rect
+       style="fill:#374845;fill-opacity:1;stroke:none;stroke-width:0.345024"
+       id="rect872"
+       width="63.684097"
+       height="92.279961"
+       x="52.620056"
+       y="59.264664" />
+    <rect
+       style="fill:#ff7b23;fill-opacity:1;stroke:none;stroke-width:0.345024"
+       id="rect896"
+       width="82.890411"
+       height="52.599579"
+       x="104.17385"
+       y="182.4584" />
+  </g>
+</svg>

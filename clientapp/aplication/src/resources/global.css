@@ -1,0 +1,14 @@
+html , body {
+
+    margin: 0;
+
+    width: 100%; height: 100%;
+
+    background-color: black;
+}
+
+* {
+    color: #e6e3df; font-family: Georgia;
+
+    outline: none; border: 0;
+}
